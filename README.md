@@ -12,7 +12,7 @@ Map array with async functions.
 ## Installation
 
 ```
-npm i -S async-map
+npm i -S asyncmap
 ```
 
 ## Usage
